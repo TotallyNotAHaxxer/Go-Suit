@@ -44,12 +44,12 @@ chmod +x ./install.sh ; ./install,sh ; go run term.go
 
 # issues 
 <br>
-piping isnt and will not work inside of the terminal as well as && or ; or || or >> statement decleration
+piping isnt and will not work inside of the terminal as well as && or semicolen or oror statements or direction statement decleration
 <br> 
 # features and how to 
 <br>
 ```
-Ctrl+C locked unless you are running a live process in that terminal then it will be executed and killed 
+Ctrl C is locked unless you are running a live process in that terminal then it will be executed and killed 
 
 when prompted to the menu use help, command, commands, or Help to reach the commands menu, this will be prompted pretty quickly
 
