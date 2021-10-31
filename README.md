@@ -39,5 +39,24 @@ this is a pretty massive golang project ive been working on, sure ive made scrip
 Compatibility coming for windows soon 
 
 UNIX/LINUX
-chmod +x ./install.sh ; ./install,sh 
+chmod +x ./install.sh ; ./install,sh ; go run term.go 
+```
+
+# issues 
+<br>
+piping isnt and will not work inside of the terminal as well as && or ; or || or >> statement decleration
+<br> 
+# features and how to 
+<br>
+```
+Control^C is locked unless you are running a live process in that terminal then it will be executed and killed 
+
+when prompted to the menu use "help, command, commands, or Help" to reach the commands menu, this will be prompted pretty quickly
+
+# what about speed? # 
+
+time.sleep or any method in the script to mark how long it will take to execute or do a certian thing is limited to JUST LIVE MONITORS LIKE GO SERVE OR NET MON OR SCRAP
+
+other than that most commands are executed extremely fast, for example dumping hexes, getting network info, IP addresses, interfaces, dates to the nanosecon, and even parsing a URl, everything should execute rather fast asides speedtest which is out of my control
+
 ```
