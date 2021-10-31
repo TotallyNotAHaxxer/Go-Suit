@@ -49,11 +49,11 @@ piping isnt and will not work inside of the terminal as well as && or ; or || or
 # features and how to 
 <br>
 ```
-Control^C is locked unless you are running a live process in that terminal then it will be executed and killed 
+Ctrl+C locked unless you are running a live process in that terminal then it will be executed and killed 
 
-when prompted to the menu use "help, command, commands, or Help" to reach the commands menu, this will be prompted pretty quickly
+when prompted to the menu use help, command, commands, or Help to reach the commands menu, this will be prompted pretty quickly
 
-# what about speed? # 
+ what about speed? 
 
 time.sleep or any method in the script to mark how long it will take to execute or do a certian thing is limited to JUST LIVE MONITORS LIKE GO SERVE OR NET MON OR SCRAP
 
