@@ -41,10 +41,6 @@ Compatibility coming for windows soon
 UNIX/LINUX
 chmod +x ./install.sh ; ./install,sh ; go run term.go 
 ```
-
-# issues 
-<br>
-piping isnt and will not work inside of the terminal as well as && or semicolen or oror statements or direction statement decleration
 <br> 
 # features and how to 
 <br>
