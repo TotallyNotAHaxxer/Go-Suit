@@ -1,0 +1,25 @@
+╭──────────────────────────────────────────────────────────────────╮
+│ Command       | List this file and help menu                     │
+│ Processing    | Get current running processes                    │
+│ inf           | Get basic system information                     │
+│ con           | Will test your connection                        │
+│ networking    | Will test a complex URL for basic inf            │
+│ version       | current version of this script                   │
+│ FILEHEX       | hex dump a file within a directory               │        
+│ FILEBYTYPE    | Find files by a file extension type              │
+│ FILEBYTIM     | Find files by a file creation date               │
+│ FILEBYSIZE    | Find files by a file size                        │
+│ DIRBYSIZE     | list a directories size                          │
+│ trem          | Find all files in a home directory               │
+│ stackquestion | search a stack overflow URL with tags            │
+│ livenetworking| launch a live network monitor for conn           │
+│ Any UNIX/LINUX| this will also work with any other base command  │
+│ timedate      | get the current time down to the nanosecond      │
+│ findmyp       | get your public Internet Protocal Address [IPA]  │
+│ workfrom      | get the directory where go is working from       │
+│ inter         | get the interface names                          │
+│ desknot       | get a server response from the desktop notif bar │
+│ intest        | get Download and Upload speeds using go spedtes  │
+╰──────────────────────────────────────────────────────────────────╯	
+
+
