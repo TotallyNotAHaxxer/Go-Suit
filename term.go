@@ -1,7 +1,6 @@
 // built from someones orgin script [ it was like 40 lines long LOL ] so- special shoutout to nothing
 package main
 
-//sudo apt install statgrab
 
 import (
 	"bufio"
