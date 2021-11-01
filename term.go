@@ -1,4 +1,14 @@
-// built from someones orgin script [ it was like 40 lines long LOL ] so- special shoutout to nothing
+// note to developers and people looking at this code 
+// most of this code was a massive mind map for me, what started 
+// out as a simple terminal made from 100 lines turned into 1,200 
+// feel free to message me and let me know of any bugs within this script 
+
+/////////////// WHAT IS NOT SUPPORTED //////////////
+// piping, && statements, or statements, semicoloen statements, or function statements
+// later to come along with development of AI and WAP | GUI's
+
+
+
 package main
 
 
