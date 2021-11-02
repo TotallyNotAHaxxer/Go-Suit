@@ -31,7 +31,6 @@ packages Third Party   -> goquery, pubip, aurora, go-ps, net-html, cpu, disk, ho
 ╰──────────────────────────────────────────────────────────────────╯
 ```
 this is a pretty massive golang project ive been working on, sure ive made scripts like red rabbit, and even GO-Liath however this isnt a cyber weapon, its something people could utilize and make use of. ever since the dawn of computers they have been used to make peoples lives easier EG something like hacking, bug bounty, IT jobs, or even regular jobs and life. i decided to make some functions that bash reguallary doesnt have and if it does make it faster with the use and programming language Go-Lang, something new but fresh and really fast not only that but go alone for how fast it is is really readable which makes it better for younger developers. 
-/////////////////////////////////////////////////////////////////////////////////////////////////////
 <br>
 <br>
 # installs 
